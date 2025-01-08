@@ -1,1 +1,1 @@
-# MVC-Phyton
+pip install -r requirements.txt
